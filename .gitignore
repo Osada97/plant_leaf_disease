@@ -1,0 +1,7 @@
+__pychache__
+include
+.DS_Store
+.idea
+Scripts
+Lib
+includepyvenv.cfg
